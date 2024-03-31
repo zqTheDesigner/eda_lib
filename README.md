@@ -6,7 +6,7 @@ git submodule update --init --recursive
 
 In another repo, pull from submodule
 ```sh
-git pull --recursive-submodules
+git pull --recurse-submodules
 ```
 
 To pull a repo contains submodule, add --recursive flag
